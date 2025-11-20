@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doodle Jump</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="doodlejump.css">
+    <script src="doodlejump.js" defer></script>
+</head>
+<body>
+
+    <h1 id="title">Doodle Jump</h1>
+
+    <div id="startPopup" class="popup">
+        <h2>Ready to Play?</h2>
+        <button class="dj-button" id="startBtn">Start</button>
+    </div>
+
+    <div id="restartPopup" class="popup">
+        <h2>Game Over</h2>
+        <p id="finalScore"></p>
+        <button class="dj-button" id="restartBtn">Restart</button>
+    </div>
+
+    <canvas id="board"></canvas>
+
+</body>
+</html>
