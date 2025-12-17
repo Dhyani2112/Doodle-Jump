@@ -1,4 +1,4 @@
-# Doodle Jump (Web Version)
+# Doodle Jump 
 
 A simple **Doodle Jump–style game** built with **HTML, CSS, and JavaScript**. Jump endlessly across platforms, avoid falling, and try to beat your high score.
 
