@@ -35,25 +35,17 @@ A simple **Doodle Jump–style game** built with **HTML, CSS, and JavaScript**. 
 
 
 ## Project Structure
-
+```
 doodlejump/
-
 ├── index.html
-
 ├── doodlejump.css
-
 ├── doodlejump.js 
-
 ├── doodlejumpbg.png  
-
 ├── doodler-left.png  
-
 ├── doodler-right.png
-
 ├── platform.png
-
 ├── jump.mp3
-
+```
 
 
 ## Run Locally
