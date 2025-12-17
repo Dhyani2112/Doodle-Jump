@@ -27,9 +27,9 @@ A simple **Doodle Jump–style game** built with **HTML, CSS, and JavaScript**. 
 
 ## Built With
 
-- **HTML5** – structure  
-- **CSS3** – styling and animations  
-- **JavaScript (Vanilla)** – game logic  
+- **HTML** – structure  
+- **CSS** – styling and animations  
+- **JavaScript** – game logic  
 - **HTML Canvas** – rendering
 
 
